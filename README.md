@@ -13,5 +13,5 @@
 ![avatar](/images/c.jpg)
 
 ## 系统效果图
-![avatar](/images/a.jpg)
+![avatar](https://github.com/Meow-eow/Mall/blob/c8a0edde38e0fd43ce1cc1b766a409992549ae12/images/a.JPG)
   
